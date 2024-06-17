@@ -20,7 +20,7 @@ npm (v6.x or higher)
 ## Step 1
 Clone the repository:
 
-git clone 
+git clone https://github.com/tichzvidzayi/starwars_app.git
 
 ## Step 2
 cd star-wars-app
