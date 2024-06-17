@@ -17,18 +17,18 @@ npm (v6.x or higher)
 
 # Installation
 
-## Step 1
+### Step 1
 Clone the repository:
 
 git clone https://github.com/tichzvidzayi/starwars_app.git
 
-## Step 2
+### Step 2
 cd starwars_app
 
-## Step 3
+### Step 3
 npm install
 
-## Step 4
+### Step 4
 npm run dev
 
 
