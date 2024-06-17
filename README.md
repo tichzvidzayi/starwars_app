@@ -57,10 +57,14 @@ star-wars-app/
 
 # Built With
 Vite - Frontend build tool (easier to configure and lightier than webpack )
+
 React - JavaScript library for UI
+
 Material-UI - React UI components library
 (material-UI because it is easier to use especially for small projects)
+
 Jest - most common and requires less configuration compared to Mocha etc.
+
 Eslint - helps with identifying and reporting on patterns found in JavaScript code,
 
 
