@@ -10,7 +10,7 @@ This is a small React application that fetches data from The Star Wars API and d
 - Implements error handling for API requests
 - Uses Material-UI components for a user-friendly interface
 
-
+*****
 ## Prerequisites
 Node.js (v18.x or higher)
 npm (v6.x or higher)
