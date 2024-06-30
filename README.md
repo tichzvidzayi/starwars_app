@@ -16,7 +16,7 @@ Node.js (v18.x or higher)
 npm (v6.x or higher)
 
 # Installation
-
+Here is a guide on how to install the project step by step 
 ### Step 1
 Clone the repository:
 
