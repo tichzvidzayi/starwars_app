@@ -7,6 +7,6 @@ export const fetchItems = async (endpoint) => {
         const response = await axios.get(`${BASE_URL}/${endpoint}/`);
         return response.data.results;
     } catch (error) {
-        throw new Error('Failed to fetch data');
+        throw new Error('Failed to fetch data from API');
     }
 };
